@@ -1,3 +1,5 @@
+![cover](linkedinnn.png)
+
 ### Hi there 👋
 
 I'm Élio, a Front-End Developer based out of Lisbon. From producing music for artists all around the world to build `Things` on the web, I love to mix logic and minimalistic design to make user-friendly web applications.
