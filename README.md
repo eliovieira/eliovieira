@@ -1,4 +1,4 @@
-![cover](linkedinnn.png)
+![cover](cover.jpg)
 
 ### Hi there 👋
 
