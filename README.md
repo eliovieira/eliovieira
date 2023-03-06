@@ -1,18 +1,19 @@
-![cover](cover.jpg)
-
 ### Hi there 👋
 
-I'm Élio, a Front-End Developer based out of Lisbon. From producing music for artists all around the world to build `Things` on the web, I love to mix logic and minimalistic design to make user-friendly web applications.
+I'm Élio, a Front-End Developer based out of Lisbon. From producing music for artists all around the world to build <Things/> on the web, I love to mix logic and minimalistic design to make user-friendly web applications.
 
-Graduated in Information Systems, Web & Multimedia at Universidade Europeia. I'm a strong believer in self-taught programming, skilled in front-end development with a desire to learn and to grow in a collaborative team environment. 
+Graduated in Information Systems, Web & Multimedia at Universidade Europeia. I'm a strong believer in self-taught programming, skilled in front-end development with a desire to learn and to grow in a collaborative team environment.
 
-I use this Github to upload `projects` that I'm working on & `code challenges` completed by me. (CodeWars, CodinGame, HackerRank)
+I use this Github to upload projects that I'm working on & code challenges completed by me. (codewars, codingame, hackerrank)
 
 You can check my online portfolio here - <a href="https://portfolio-eliovieira.netlify.app/" target="_blank">https://portfolio-eliovieira.netlify.app/</a>
 
-💻 LinkedIn - [https://www.linkedin.com/in/eliovieira/](https://www.linkedin.com/in/eliovieira/) 
+LinkedIn - <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 
 ![Codewars](https://github.r2v.ch/codewars?user=eliovieira)
+
 
 
 
