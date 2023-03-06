@@ -1,9 +1,10 @@
+<div align="center">
 ### Hey there 👋
 
 I'm Élio, a Front-End Developer based out of Lisbon. From producing music for artists all around the world to build `<Things/>` on the web, I love to mix logic and minimalistic design to make user-friendly web applications.
 
 I use this Github to upload `projects` that I'm working on & `code challenges` completed by me. (codewars, codingame, hackerrank)
-
+</div>
 You can check my online portfolio here - <a href="https://portfolio-eliovieira.netlify.app/" target="_blank">https://portfolio-eliovieira.netlify.app/</a>
 
 LinkedIn - <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
