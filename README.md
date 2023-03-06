@@ -8,7 +8,7 @@ I use this Github to upload projects that I'm working on & code challenges compl
 
 You can check my online portfolio here - <a href="https://portfolio-eliovieira.netlify.app/" target="_blank">https://portfolio-eliovieira.netlify.app/</a>
 
-LinkedIn - <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
+LinkedIn - [https://www.linkedin.com/in/eliovieira/](https://www.linkedin.com/in/eliovieira/)
 
 ![Codewars](https://github.r2v.ch/codewars?user=eliovieira)
 
