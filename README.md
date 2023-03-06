@@ -10,8 +10,6 @@ You can check my online portfolio here - <a href="https://portfolio-eliovieira.n
 
 LinkedIn - <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
 
-
-
 ![Codewars](https://github.r2v.ch/codewars?user=eliovieira)
 
 
