@@ -7,7 +7,7 @@ I use this Github to upload `projects` that I'm working on & `code challenges` c
 
 You can check my online portfolio here - <a href="https://portfolio-eliovieira.netlify.app/" target="_blank">https://portfolio-eliovieira.netlify.app/</a>
 
-LinkedIn - <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"/> <a href="https://www.linkedin.com/in/eliovieira/" target="_blank">https://www.linkedin.com/in/eliovieira/</a>
 <div align="center">
 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
